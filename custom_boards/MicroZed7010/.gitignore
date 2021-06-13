@@ -1,0 +1,3 @@
+*.bsp
+petalinux_bsp/*.bsp
+PETALINUX

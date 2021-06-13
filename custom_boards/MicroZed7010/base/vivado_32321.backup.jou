@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:35 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Thu Jun 10 00:20:48 2021
+# Process ID: 32321
+# Current directory: /home/pynq/workspace/PYNQ/custom_boards/MicroZed7010/base
+# Command line: vivado -mode batch -source build_base_ip.tcl -notrace
+# Log file: /home/pynq/workspace/PYNQ/custom_boards/MicroZed7010/base/vivado.log
+# Journal file: /home/pynq/workspace/PYNQ/custom_boards/MicroZed7010/base/vivado.jou
+#-----------------------------------------------------------
+source build_base_ip.tcl -notrace
